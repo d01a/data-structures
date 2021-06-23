@@ -72,7 +72,7 @@ int main()
     }
     print_list();
     //deleting node from the list
-    /*  printf("enter the value to be deleted from the list: ");
+      printf("enter the value to be deleted from the list: ");
       scanf("\n%[^\n]s",value_to_delete);
       delete_node(value_to_delete);
       count_list();
@@ -96,7 +96,7 @@ int main()
       delete_end();
       count_list();
       print_list();
-      */
+      
     puts("******************************************");
     puts("sorting the list");
     sort();
@@ -162,7 +162,7 @@ void print_list()
 }
 
 
-/*
+
 void insert_beginning(char *value){
 Node *new_node = (Node *)malloc(sizeof(Node *));
 strcpy(new_node->data , value);
@@ -181,8 +181,7 @@ void delete_beginning(){
     }
 
 }
-*/
-/*
+
 void count_list()
 {
     int count=0;
@@ -220,7 +219,7 @@ else {
     ptr->next = NULL;
 }
 }
-*/
+
 void sort(void)
 {
     int i;
