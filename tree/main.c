@@ -1,5 +1,5 @@
-// Fig. 12.19: fig12_19.c
-// Creating and traversing a binary tree
+//this code from deitel c how to program c11
+//descening oeder added by me :D
 // preorder, inorder, and postorder
 #include <stdio.h>
 #include <stdlib.h>
