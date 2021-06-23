@@ -1,4 +1,4 @@
-//this code from deitel c how to program c11
+//this code from deitel c how to program c12
 //descening oeder added by me :D
 // preorder, inorder, and postorder
 #include <stdio.h>
