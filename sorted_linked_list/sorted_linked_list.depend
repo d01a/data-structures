@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622934271 source:d:\c\data_structure\sorted_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
